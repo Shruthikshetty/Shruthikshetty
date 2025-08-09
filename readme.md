@@ -5,14 +5,14 @@ I love exploring new technologies and learning new things just for fun!
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Shruthikshetty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shruthikshetty&show_icons=true&theme=radical)
+![Shruthikshetty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shruthikshetty&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shruthikshetty&layout=compact&theme=radical)
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Profile Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Shruthikshetty&theme=radical&no-frame=true&margin-w=5)
 
@@ -21,6 +21,12 @@ I love exploring new technologies and learning new things just for fun!
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shruthikshetty&theme=radical)
+
+---
+
+## 🎯 Activity Graph
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shruthikshetty&theme=radical)
 
 ---
 
